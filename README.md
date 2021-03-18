@@ -9,7 +9,7 @@
   - [Desafio#01 Conceitos Node](#desafio01---conceitos-node)
   - [Desafio#02 Middlewares](#desafio02---middlewares)
   - [Desafio#03 Corrigindo o código](#desafio03---corrigindo-o-código)
-
+  - [Desafio#04 S.O.L.I.D](#desafio04---solid)
 
 # 🗒️ O que são esses desafios ?
 Durante o curso, para testar o nosso conhecimento, são propostos vários desafios e todos esses desafios podem ser escontrados neste repositório.
@@ -36,3 +36,10 @@ Nela, eu deveria checar os erros da aplicação e resolucionar do jeito que eu q
 Essa aplicação é parecida com a do Desafio#01, porém nela o usuário tem a opção de ter um plano Pro, que lhe da a permissão de criar mais de 10 ***todos***.<br/>
 **Leia o Readme do repositório para mais informações de como foi feito.** <br/>
 **Veja o repositório original em: https://github.com/CauaMatheus/Desafio-03-Corrigindo-o-codigo**
+
+
+## `Desafio#04` - S.O.L.I.D
+Para fixar a arquitetura S.O.L.I.D que aprendemos durante as aulas foi proposto um desafio em que deviamos criar uma aplicação de listagem e cadastro de usuário seguindo os princípios. <br/>
+Nessa aplicação, foi feito o `UserRepository`, e também foi separado o `Controller` de cada rota e o `UseCase` de cada serviço dos `Controllers`<br/>
+**Leia o Readme do repositório para mais informações de como foi feito.** <br/>
+**Veja o repositório original em: https://github.com/CauaMatheus/Desafio-04-S.O.L.I.D**
